@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.446946Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T08:45:52.729116Z",
+      "mimetype": null,
+      "name": "C3_W1_Anomaly_Detection.ipynb",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 1\\bkup/C3_W1_Anomaly_Detection.ipynb",
+      "size": 31414,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.451949Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T08:45:56.552418Z",
+      "mimetype": "text/x-python",
+      "name": "C3_W1_Anomaly_Detection.py",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 1\\bkup/C3_W1_Anomaly_Detection.py",
+      "size": 22914,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.457947Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T08:41:57.931149Z",
+      "mimetype": null,
+      "name": "C3_W1_KMeans_Assignment.ipynb",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 1\\bkup/C3_W1_KMeans_Assignment.ipynb",
+      "size": 36659,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.461947Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T08:42:02.244195Z",
+      "mimetype": "text/x-python",
+      "name": "C3_W1_KMeans_Assignment.py",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 1\\bkup/C3_W1_KMeans_Assignment.py",
+      "size": 26450,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-10-26T16:04:11.445951Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-10-26T16:04:11.461947Z",
+  "mimetype": null,
+  "name": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 1\\bkup",
+  "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 1\\bkup",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.077178Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-10-26T16:04:11.078181Z",
+      "mimetype": null,
+      "name": "2022-02-25_22-37-26",
+      "path": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 2\\logs\\train\\plugins\\profile/2022-02-25_22-37-26",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.087619Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-10-26T16:04:11.088561Z",
+      "mimetype": null,
+      "name": "2022-03-20_19-45-46",
+      "path": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 2\\logs\\train\\plugins\\profile/2022-03-20_19-45-46",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2025-10-26T16:04:11.077178Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-10-26T16:04:11.087619Z",
+  "mimetype": null,
+  "name": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 2\\logs\\train\\plugins\\profile",
+  "path": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 2\\logs\\train\\plugins\\profile",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

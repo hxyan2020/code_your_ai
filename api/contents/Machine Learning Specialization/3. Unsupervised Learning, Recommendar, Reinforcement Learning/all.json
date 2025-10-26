@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.445951Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-10-26T16:04:11.540214Z",
+      "mimetype": null,
+      "name": "Week 1",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning/Week 1",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.545215Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-10-26T16:04:11.620314Z",
+      "mimetype": null,
+      "name": "Week 2",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning/Week 2",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.654665Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-10-26T16:04:11.745884Z",
+      "mimetype": null,
+      "name": "Week 3",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning/Week 3",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2025-10-26T16:04:11.444946Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-10-26T16:04:11.656419Z",
+  "mimetype": null,
+  "name": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning",
+  "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

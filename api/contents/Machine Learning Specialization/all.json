@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:09.676647Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-10-26T16:04:10.203874Z",
+      "mimetype": null,
+      "name": "1. Supervised Learning",
+      "path": "Machine Learning Specialization/1. Supervised Learning",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:10.491172Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-10-26T16:04:11.259679Z",
+      "mimetype": null,
+      "name": "2. Advanced Learning Algorithm",
+      "path": "Machine Learning Specialization/2. Advanced Learning Algorithm",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.444946Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-10-26T16:04:11.656419Z",
+      "mimetype": null,
+      "name": "3. Unsupervised Learning, Recommendar, Reinforcement Learning",
+      "path": "Machine Learning Specialization/3. Unsupervised Learning, Recommendar, Reinforcement Learning",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2025-10-26T16:04:09.676647Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-10-26T16:04:11.444946Z",
+  "mimetype": null,
+  "name": "Machine Learning Specialization",
+  "path": "Machine Learning Specialization",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

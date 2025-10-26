@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:09.677666Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-10-26T16:04:10.036773Z",
+      "mimetype": null,
+      "name": "Week 1",
+      "path": "Machine Learning Specialization\\1. Supervised Learning/Week 1",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:10.046942Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-10-26T16:04:10.197876Z",
+      "mimetype": null,
+      "name": "Week 2",
+      "path": "Machine Learning Specialization\\1. Supervised Learning/Week 2",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:10.203874Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-10-26T16:04:10.481163Z",
+      "mimetype": null,
+      "name": "Week 3",
+      "path": "Machine Learning Specialization\\1. Supervised Learning/Week 3",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2025-10-26T16:04:09.676647Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-10-26T16:04:10.203874Z",
+  "mimetype": null,
+  "name": "Machine Learning Specialization\\1. Supervised Learning",
+  "path": "Machine Learning Specialization\\1. Supervised Learning",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:10.493171Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T08:04:50.242411Z",
+      "mimetype": null,
+      "name": "20230130_C2_W1_Assignment.ipynb",
+      "path": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 1\\archive/20230130_C2_W1_Assignment.ipynb",
+      "size": 45110,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:10.500160Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T08:04:50.283640Z",
+      "mimetype": null,
+      "name": "C2_W1_Assignment-Copy1.ipynb",
+      "path": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 1\\archive/C2_W1_Assignment-Copy1.ipynb",
+      "size": 41558,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-10-26T16:04:10.492180Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-10-26T16:04:10.500160Z",
+  "mimetype": null,
+  "name": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 1\\archive",
+  "path": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 1\\archive",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

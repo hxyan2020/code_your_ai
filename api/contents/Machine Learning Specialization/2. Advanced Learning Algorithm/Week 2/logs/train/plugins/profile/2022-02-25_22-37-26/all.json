@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.078181Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T08:16:22.212108Z",
+      "mimetype": null,
+      "name": "local.trace",
+      "path": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 2\\logs\\train\\plugins\\profile\\2022-02-25_22-37-26/local.trace",
+      "size": 19111,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-10-26T16:04:11.077178Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-10-26T16:04:11.078181Z",
+  "mimetype": null,
+  "name": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 2\\logs\\train\\plugins\\profile\\2022-02-25_22-37-26",
+  "path": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 2\\logs\\train\\plugins\\profile\\2022-02-25_22-37-26",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.545215Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-10-26T16:04:11.592302Z",
+      "mimetype": null,
+      "name": "bkup",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 2/bkup",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.602304Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-07-10T11:49:30.614925Z",
+      "mimetype": null,
+      "name": "C3_W2_Lab01_PCA_Visualization_Examples.ipynb",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 2/C3_W2_Lab01_PCA_Visualization_Examples.ipynb",
+      "size": 17196,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.609304Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T09:02:31.242615Z",
+      "mimetype": "text/x-python",
+      "name": "pca_utils.py",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 2/pca_utils.py",
+      "size": 12428,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.619302Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T09:02:31.376701Z",
+      "mimetype": "application/vnd.ms-excel",
+      "name": "toy_dataset.csv",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 2/toy_dataset.csv",
+      "size": 9425480,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-10-26T16:04:11.545215Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-10-26T16:04:11.620314Z",
+  "mimetype": null,
+  "name": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 2",
+  "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 2",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

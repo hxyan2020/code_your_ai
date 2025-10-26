@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.659448Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T09:11:01.378562Z",
+      "mimetype": null,
+      "name": "C3_W3_A1_Assignment.ipynb",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 3\\bkup/C3_W3_A1_Assignment.ipynb",
+      "size": 47991,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.671907Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T09:11:05.208292Z",
+      "mimetype": "text/x-python",
+      "name": "C3_W3_A1_Assignment.py",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 3\\bkup/C3_W3_A1_Assignment.py",
+      "size": 37227,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.678907Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T09:06:50.564244Z",
+      "mimetype": null,
+      "name": "State-action value function example.ipynb",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 3\\bkup/State-action value function example.ipynb",
+      "size": 1701,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.688251Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T09:06:56.441494Z",
+      "mimetype": "text/x-python",
+      "name": "State-action value function example.py",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 3\\bkup/State-action value function example.py",
+      "size": 662,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-10-26T16:04:11.657452Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-10-26T16:04:11.688251Z",
+  "mimetype": null,
+  "name": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 3\\bkup",
+  "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 3\\bkup",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.509949Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T08:46:19.598547Z",
+      "mimetype": "image/png",
+      "name": "figure1.png",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 1\\images/figure1.png",
+      "size": 144392,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.517949Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T08:46:19.635928Z",
+      "mimetype": "image/png",
+      "name": "figure2.png",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 1\\images/figure2.png",
+      "size": 319690,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:11.524950Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T08:46:19.565605Z",
+      "mimetype": "image/png",
+      "name": "figure3.png",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 1\\images/figure3.png",
+      "size": 284165,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-10-26T16:04:11.508951Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-10-26T16:04:11.524950Z",
+  "mimetype": null,
+  "name": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 1\\images",
+  "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 1\\images",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

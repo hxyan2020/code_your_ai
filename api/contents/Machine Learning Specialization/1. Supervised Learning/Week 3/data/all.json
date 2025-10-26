@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:10.414178Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T07:52:16.055605Z",
+      "mimetype": "text/plain",
+      "name": "ex2data1.txt",
+      "path": "Machine Learning Specialization\\1. Supervised Learning\\Week 3\\data/ex2data1.txt",
+      "size": 3775,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:10.424484Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T07:52:16.101829Z",
+      "mimetype": "text/plain",
+      "name": "ex2data2.txt",
+      "path": "Machine Learning Specialization\\1. Supervised Learning\\Week 3\\data/ex2data2.txt",
+      "size": 2233,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-10-26T16:04:10.412175Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-10-26T16:04:10.424484Z",
+  "mimetype": null,
+  "name": "Machine Learning Specialization\\1. Supervised Learning\\Week 3\\data",
+  "path": "Machine Learning Specialization\\1. Supervised Learning\\Week 3\\data",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:10.937885Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T08:16:21.450207Z",
+      "mimetype": null,
+      "name": "X.npy",
+      "path": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 2\\data/X.npy",
+      "size": 16000128,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:04:10.984455Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T08:16:21.299331Z",
+      "mimetype": null,
+      "name": "y.npy",
+      "path": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 2\\data/y.npy",
+      "size": 5128,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-10-26T16:04:10.936887Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-10-26T16:04:10.984455Z",
+  "mimetype": null,
+  "name": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 2\\data",
+  "path": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 2\\data",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
