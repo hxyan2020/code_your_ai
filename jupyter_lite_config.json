@@ -1,0 +1,9 @@
+{
+  "LiteBuildConfig": {
+    "apps": ["lab", "retro"],
+    "contents": ["content"]
+  },
+  "pyodide": {
+    "packages": ["micropip", "numpy", "matplotlib", "pandas"]
+  }
+}
