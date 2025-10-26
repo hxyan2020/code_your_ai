@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-10-26T16:45:39.289594Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T09:12:30.756469Z",
+      "mimetype": "image/png",
+      "name": "deep_q_algorithm.png",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 3\\images/deep_q_algorithm.png",
+      "size": 344869,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:45:39.299783Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T09:12:30.722884Z",
+      "mimetype": "image/gif",
+      "name": "lunar_lander.gif",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 3\\images/lunar_lander.gif",
+      "size": 425599,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:45:39.307916Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T09:12:30.687582Z",
+      "mimetype": "image/png",
+      "name": "rl_formalism.png",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 3\\images/rl_formalism.png",
+      "size": 636782,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-10-26T16:45:39.288527Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-10-26T16:45:39.308831Z",
+  "mimetype": null,
+  "name": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 3\\images",
+  "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 3\\images",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

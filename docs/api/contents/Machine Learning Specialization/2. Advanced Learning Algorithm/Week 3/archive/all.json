@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-10-26T16:45:38.710965Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T08:26:55.905817Z",
+      "mimetype": "text/x-python",
+      "name": "assigment_utils.py",
+      "path": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 3\\archive/assigment_utils.py",
+      "size": 17541,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-10-26T16:45:38.708966Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-10-26T16:45:38.710965Z",
+  "mimetype": null,
+  "name": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 3\\archive",
+  "path": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 3\\archive",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

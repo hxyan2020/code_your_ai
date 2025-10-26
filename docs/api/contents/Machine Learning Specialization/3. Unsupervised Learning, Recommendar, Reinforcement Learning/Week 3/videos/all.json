@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-10-26T16:45:39.353801Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T09:12:30.545844Z",
+      "mimetype": "video/mp4",
+      "name": "rl_formalism.m4v",
+      "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 3\\videos/rl_formalism.m4v",
+      "size": 3262617,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-10-26T16:45:39.351844Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-10-26T16:45:39.353801Z",
+  "mimetype": null,
+  "name": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 3\\videos",
+  "path": "Machine Learning Specialization\\3. Unsupervised Learning, Recommendar, Reinforcement Learning\\Week 3\\videos",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

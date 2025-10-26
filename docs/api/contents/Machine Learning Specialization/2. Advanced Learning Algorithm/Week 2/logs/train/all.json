@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-10-26T16:45:38.644896Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T08:16:22.107304Z",
+      "mimetype": null,
+      "name": "events.out.tfevents.1645828646.ed92f2b0de47.31.186.v2",
+      "path": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 2\\logs\\train/events.out.tfevents.1645828646.ed92f2b0de47.31.186.v2",
+      "size": 792381,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:45:38.654915Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T08:16:22.149917Z",
+      "mimetype": null,
+      "name": "events.out.tfevents.1645828646.ed92f2b0de47.profile-empty",
+      "path": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 2\\logs\\train/events.out.tfevents.1645828646.ed92f2b0de47.profile-empty",
+      "size": 40,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:45:38.661829Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T08:16:22.059653Z",
+      "mimetype": null,
+      "name": "events.out.tfevents.1647805546.30f1e0ee4ffd.31.186.v2",
+      "path": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 2\\logs\\train/events.out.tfevents.1647805546.30f1e0ee4ffd.31.186.v2",
+      "size": 780735,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:45:38.672830Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2025-10-26T16:45:38.673928Z",
+      "mimetype": null,
+      "name": "plugins",
+      "path": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 2\\logs\\train/plugins",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2025-10-26T16:45:38.643878Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-10-26T16:45:38.672830Z",
+  "mimetype": null,
+  "name": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 2\\logs\\train",
+  "path": "Machine Learning Specialization\\2. Advanced Learning Algorithm\\Week 2\\logs\\train",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

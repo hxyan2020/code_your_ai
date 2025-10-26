@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-10-26T16:45:38.117289Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T07:52:16.218124Z",
+      "mimetype": "image/png",
+      "name": "figure 1.png",
+      "path": "Machine Learning Specialization\\1. Supervised Learning\\Week 3\\images/figure 1.png",
+      "size": 88535,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:45:38.125285Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T07:52:16.280636Z",
+      "mimetype": "image/png",
+      "name": "figure 2.png",
+      "path": "Machine Learning Specialization\\1. Supervised Learning\\Week 3\\images/figure 2.png",
+      "size": 68315,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:45:38.133459Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T07:52:16.186133Z",
+      "mimetype": "image/png",
+      "name": "figure 3.png",
+      "path": "Machine Learning Specialization\\1. Supervised Learning\\Week 3\\images/figure 3.png",
+      "size": 112814,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:45:38.139436Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T07:52:16.248641Z",
+      "mimetype": "image/png",
+      "name": "figure 4.png",
+      "path": "Machine Learning Specialization\\1. Supervised Learning\\Week 3\\images/figure 4.png",
+      "size": 128546,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2025-10-26T16:45:38.116298Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-10-26T16:45:38.139436Z",
+  "mimetype": null,
+  "name": "Machine Learning Specialization\\1. Supervised Learning\\Week 3\\images",
+  "path": "Machine Learning Specialization\\1. Supervised Learning\\Week 3\\images",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

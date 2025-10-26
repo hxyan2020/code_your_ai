@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2025-10-26T16:45:37.934097Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T07:52:15.825596Z",
+      "mimetype": null,
+      "name": "20230213_C1_W3_Logistic_Regression.ipynb",
+      "path": "Machine Learning Specialization\\1. Supervised Learning\\Week 3\\archive/20230213_C1_W3_Logistic_Regression.ipynb",
+      "size": 71301,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:45:37.941025Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T07:52:15.867598Z",
+      "mimetype": null,
+      "name": "C1_W3_Logistic_Regression-Copy1.ipynb",
+      "path": "Machine Learning Specialization\\1. Supervised Learning\\Week 3\\archive/C1_W3_Logistic_Regression-Copy1.ipynb",
+      "size": 67704,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2025-10-26T16:45:37.946182Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-03-17T07:52:15.783552Z",
+      "mimetype": null,
+      "name": "C1_W3_Logistic_Regression-Copy2.ipynb",
+      "path": "Machine Learning Specialization\\1. Supervised Learning\\Week 3\\archive/C1_W3_Logistic_Regression-Copy2.ipynb",
+      "size": 67648,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2025-10-26T16:45:37.934097Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2025-10-26T16:45:37.946182Z",
+  "mimetype": null,
+  "name": "Machine Learning Specialization\\1. Supervised Learning\\Week 3\\archive",
+  "path": "Machine Learning Specialization\\1. Supervised Learning\\Week 3\\archive",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
